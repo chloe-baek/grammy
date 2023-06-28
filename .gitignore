@@ -1,4 +1,5 @@
+.DS_Store
 fullsize/
 thumb/
-.pages
-.png
+*.pages
+*.png
